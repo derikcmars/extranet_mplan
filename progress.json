@@ -1,0 +1,21 @@
+﻿{
+  "project": "Extranet MPlan",
+  "lastUpdate": "2026-05-12",
+  "status": "Setup inicial concluído",
+  "progressLog": [
+    {
+      "date": "2026-05-12",
+      "description": "Setup inicial do projeto",
+      "details": [
+        "Git instalado e configurado",
+        "Repositório clonado em C:\\Users\\derik.marques\\Projetos\\extranet_mplan",
+        "Autenticação SSH configurada com GitHub",
+        "README.md criado com status do projeto",
+        "Primeiro commit e push realizado (branch main)"
+      ]
+    }
+  ],
+  "pendingTasks": [
+    "Aguardando specs das telas iniciais para iniciar desenvolvimento"
+  ]
+}
